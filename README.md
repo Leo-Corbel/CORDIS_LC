@@ -1,5 +1,5 @@
 # CORDIS_LC 
-========================================== PIPELINE ===============================================
+==================================== PIPELINE ====================================
 
 STEP 1: MERGER LES DIFFERENTS FICHIERS DES 9 FRAMEWORK PROG (+suppr lignes vides; +Namekey)
 
