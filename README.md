@@ -2,6 +2,7 @@
 ====================== PIPELINE =========================
 
 STEP 1: MERGER LES DIFFERENTS FICHIERS DES 9 FRAMEWORK PROG (+suppr lignes vides; +Namekey)
+
         R1_FP.csv
 STEP 2: TROUVER LES SERVICES GEOLOGIQUES PAR LA RACINE "GEO" (dans NAMEKEY)
         R2_geo_unique.csv
